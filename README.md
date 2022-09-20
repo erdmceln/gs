@@ -1,0 +1,2 @@
+# gs
+github ilk denemesi
